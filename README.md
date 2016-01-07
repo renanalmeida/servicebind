@@ -1,3 +1,3 @@
 # servicebind
 
-A simple example with Android services.
+A simple example of how to use Android services.
